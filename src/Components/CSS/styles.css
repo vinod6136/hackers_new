@@ -1,0 +1,69 @@
+.logo-image{
+  width: 18px;
+  height: 18px;
+  border: 1px solid #fff;
+
+}
+.page-top {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #222222;
+  line-height: 12px;
+}
+.nav-style{
+  line-height: 12pt;
+  height: 10px;
+}
+.header-link-name {
+  margin-right: 5px;
+}
+
+.page-top a:link {
+  color: #000000;
+  text-decoration: none;
+}
+.votearrow {
+    width: 10px;
+    height: 10px;
+    border: 0px;
+    margin: 3px 2px 6px;
+    /* background: url("../images/grayarrow.png") no-repeat; */
+  }
+
+  .storylink {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .comhead {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #828282;
+  }
+
+  .subtext {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 7pt;
+    color: #828282;
+  }
+  
+  .comhead a:link, .subtext a:link, .morelink a:link {
+    color: #828282;
+    text-decoration: none;
+  }
+  .morespace {
+    height: 10px;
+  }
+  .footerline{
+    height: 0.5px;
+    background-color:  #ff6600;
+}
+.yclinks {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #828282;
+  }
+  
+  form {
+    margin-block-end: 1em;
+  }
